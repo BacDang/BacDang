@@ -89,12 +89,14 @@ developer = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BacDang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BacDang&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacDang&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacDang&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="160"/>
 </div>
 
 <div align="center">
   <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=BacDang&theme=tokyonight&no-frame=true&row=1&column=5"/>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=BacDang&color=6366f1&style=flat-square&label=Profile+Views"/>
 </div>

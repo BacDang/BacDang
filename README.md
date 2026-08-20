@@ -20,10 +20,9 @@
 developer = {
     "name":    "Dang Nam Duc Bac",
     "school":  "PTIT Ha Noi - Software Development",
-    "gpa":     3.4,
     "focus":   ["Backend Development", "Full-Stack Web", "AI Integration"],
     "email":   "bacdang2512@gmail.com",
-    "looking": "Software Developer Intern (Java / Python / Full-Stack)",
+    "looking": "Software Developer (Java / Python / Full-Stack)",
 }
 ```
 
